@@ -1,0 +1,250 @@
+{
+    "root": {
+        "data": {
+            "id": "d8bn1hm5akg0",
+            "created": 1741513579229,
+            "text": "鸣潮"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d8bn1pjtqyg0",
+                    "created": 1741513596503,
+                    "text": "探索：大世界",
+                    "note": "探索部分主要以各系统承担的作用进行分析"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8bnbyxjmg00",
+                            "created": 1741514400565,
+                            "text": "资源",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8bn8irp4o00",
+                                    "created": 1741514130291,
+                                    "text": "宝箱"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8bnbi96f1c0",
+                                            "created": 1741514364264,
+                                            "text": "逛图寻得，一般藏得比较隐蔽，促进玩家与地图的交互"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8bncrhb4p40",
+                                            "created": 1741514462710,
+                                            "text": "击败怪物解锁，为玩家养成验证，战斗系统的一部分"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8bncyhu06w0",
+                                            "created": 1741514477980,
+                                            "text": "解谜玩法"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bndcmh9ls0",
+                                    "created": 1741514508735,
+                                    "text": "声蝶"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8bne5h82ao0",
+                                            "created": 1741514571544,
+                                            "text": "类原神仙灵，起到指引地图作用"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bneosdsrk0",
+                                    "created": 1741514613578,
+                                    "text": "场景可交互光点"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8bnf1kqvls0",
+                                            "created": 1741514641414,
+                                            "text": "不同场景可交互出不同资源，增加探索代入感"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8bnjgci1pc0",
+                                            "created": 1741514987024,
+                                            "text": "埋梗，增加趣味性"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bnie3bhh40",
+                                    "created": 1741514903751,
+                                    "text": "可采集的植物、矿石"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8bnig5g7q80",
+                                            "created": 1741514908234,
+                                            "text": "增加世界真实感"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8bnlxdxilc0",
+                                            "created": 1741515180844,
+                                            "text": "部分养成资源投放"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8bniktjq3c0",
+                                            "created": 1741514918398,
+                                            "text": "定时刷新的额外资源投放模式，引导玩家每日上线"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8bng3w8jdk0",
+                            "created": 1741514724827,
+                            "text": "书本资料"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8bngkgzai80",
+                                    "created": 1741514760910,
+                                    "text": "补充剧情设定，防止主线啰嗦"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bngnme7s80",
+                                    "created": 1741514767767,
+                                    "text": "补充世界观设定，主动搜寻获得，可提高代入感"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bnhmesimg0",
+                                    "created": 1741514843495,
+                                    "text": "逃课提示"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8bni03z5yg0",
+                            "created": 1741514873316,
+                            "text": "探索工具"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8bnjrvzihs0",
+                                    "created": 1741515012147,
+                                    "text": "简化探索难度"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bnk13zqrk0",
+                                    "created": 1741515032222,
+                                    "text": "从世界观上合理化部分任务引导"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bnkqckgaw0",
+                                    "created": 1741515087160,
+                                    "text": "引入新的战斗玩法"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8bnl1d0pio0",
+                                    "created": 1741515111132,
+                                    "text": "投放新的大世界玩法"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d8bn7rbat8w0",
+                    "created": 1741514070527,
+                    "text": "战斗",
+                    "note": "战斗系统主要以队伍模式、战斗流程来分析如何吸引玩家"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8bns064zl40",
+                            "created": 1741515657088,
+                            "text": "队伍"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d8bns5bb1ao0",
+                            "created": 1741515668285,
+                            "text": "技能"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d8bn7u1vyog0",
+                    "created": 1741514076487,
+                    "text": "养成"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
