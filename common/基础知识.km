@@ -1,0 +1,288 @@
+{
+    "root": {
+        "data": {
+            "id": "d8dtmdgpevk0",
+            "created": 1741735262413,
+            "text": "游戏拆解"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d8dtmlq958w0",
+                    "created": 1741735280405,
+                    "text": "常用设计理论",
+                    "hyperlink": "https://zhuanlan.zhihu.com/p/630626214",
+                    "hyperlinkTitle": "【游戏设计-游戏拆解】P1 游戏拆解导论"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8dtn6eg7vs0",
+                            "created": 1741735325404,
+                            "text": "MDA"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8dtn7r9djs0",
+                                    "created": 1741735328355,
+                                    "text": "Mechanics（机制）"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8dtp0ysnkg0",
+                                            "created": 1741735470302,
+                                            "text": "数据与规则的系统性组合"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtnhizdfk0",
+                                    "created": 1741735349622,
+                                    "text": "Dynamics（动态）"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8dtpfrasd40",
+                                            "created": 1741735502500,
+                                            "text": "玩家与游戏的交互行为"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtnkpi6c00",
+                                    "created": 1741735356547,
+                                    "text": "Aesthetics（体验）"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8dtpuksd5s0",
+                                            "created": 1741735534758,
+                                            "text": "玩家基于机制做出行为，产生体验"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8dtnmtdqrc0",
+                            "created": 1741735361135,
+                            "text": "GMT",
+                            "note": "更多用于指导开发实践\n"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8dtnqg02lc0",
+                                    "created": 1741735369033,
+                                    "text": "Goals（目标）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtnsdj9cw0",
+                                    "created": 1741735373238,
+                                    "text": "Means（方法）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtnuaq40w0",
+                                    "created": 1741735377421,
+                                    "text": "Tools（工具）"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8dtnw6w1eg0",
+                            "created": 1741735381543,
+                            "text": "TMV",
+                            "note": "验证设计的工具"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8dtnzd5myo0",
+                                    "created": 1741735388452,
+                                    "text": "Target（目标）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dto1kzeug0",
+                                    "created": 1741735393279,
+                                    "text": "Mechanics（机制）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dto41n6go0",
+                                    "created": 1741735398640,
+                                    "text": "Verification（验证）"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d8dtwu5tgq80",
+                    "created": 1741736082402,
+                    "text": "拆解方法",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8dtmrepyqw0",
+                            "created": 1741735292768,
+                            "text": "主要拆解步骤",
+                            "note": "内容描述\n设计目的分析"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8dtmtnq4c80",
+                                    "created": 1741735297666,
+                                    "text": "内容拆解"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtn1181nk0",
+                                    "created": 1741735313720,
+                                    "text": "平衡性分析"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtn2ogj0g0",
+                                    "created": 1741735317302,
+                                    "text": "设计分析"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8dtrlwvkt40",
+                            "created": 1741735672626,
+                            "text": "拆解角度"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8dtrndme7k0",
+                                    "created": 1741735675816,
+                                    "text": "机制"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtrothc200",
+                                    "created": 1741735678951,
+                                    "text": "数值"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtrq073qw0",
+                                    "created": 1741735681534,
+                                    "text": "交互"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtrqmhzsg0",
+                                    "created": 1741735682883,
+                                    "text": "剧情"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtrrs7lnk0",
+                                    "created": 1741735685405,
+                                    "text": "音乐"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8dtrse5wg80",
+                                    "created": 1741735686732,
+                                    "text": "美术"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8dtwmi5fog0",
+                            "created": 1741736065733,
+                            "text": "拆解思路"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8dtzf32hfs0",
+                                    "created": 1741736284677,
+                                    "text": "确定拆解角度"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8dtzi7y7uo0",
+                                            "created": 1741736291502,
+                                            "text": "确定关注重点，不要大而全地分析"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8du05ipmqw0",
+                                    "created": 1741736342219,
+                                    "text": "分析设计目的与优缺点"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
